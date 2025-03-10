@@ -1,2 +1,2 @@
 # Classifier_CNN
- Deep Learining Classifier -PyTorch
+ Deep Learning Classifier -PyTorch
